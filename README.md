@@ -29,14 +29,14 @@ Comprehensive analysis of promotional effectiveness across **50 retail stores** 
 
 ---
 
-## Key Performance Indicators
+## Key Performance Indicators (KPIs)
 
-| KPI | Value | Impact |
-|-----|-------|---------|
-| Total Incremental Revenue | 207M | Revenue Optimization |
-| Total Incremental Sold Units | 226K | Sales Volume |
-| Average IR per Store | 4.14M | Store Performance |
-| Stores Analyzed | 50 | Scale |
+| KPI | Value |
+|-----|-------|
+| Total Incremental Revenue | 207M |
+| Total Incremental Sold Units | 226K |
+| Average IR per Store | 4.14M |
+| Total Stores Analyzed | 50 |
 
 ---
 
@@ -72,14 +72,6 @@ Comprehensive analysis of promotional effectiveness across **50 retail stores** 
 6. **Optimize resource allocation** based on regional responsiveness
 
 ---
-
-##  Project Files
-
-| File | Description |
-|------|-------------|
-| [`Business_Questions.md`](./365_Super_Mart_Promotion_Analysis/1_Business_Questions.md) | Business requirements & objectives |
-| [`SQL_Queries_Solutions.sql`](./365_Super_Mart_Promotion_Analysis/2_Sql_Queries_Solutions.sql) | Complete SQL analysis with 10 business questions |
-| [`Executive_Presentation.pdf`](./365_Super_Mart_Promotion_Analysis/3_365_Super_Mart_Promotion_Analysis_Presentation.pdf) | Insights & recommendations deck |
 
 ## Project Files
 - **Business Analysis:** `1_Business_Questions_Analysis.md`
